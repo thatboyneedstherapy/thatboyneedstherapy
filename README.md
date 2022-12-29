@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @thatboyneedstherapy
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning rust, html5
-- 💞️ I’m looking to collaborate on recreation of warvox
+- 👀 I’m interested in cyber security and machine learning
+- 🌱 I’m currently learning python, HTML, and JavaScript
 - 📫 How to reach me lecouixjosh@gmail.com
